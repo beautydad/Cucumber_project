@@ -1,0 +1,6 @@
+ExtentHtmlReporter htmlReporter =  new
+
+ExtentHtmlReporter(System.getProperty("user.dir")+"/Reports/extentReport.html");
+htmlReporter.config().setDocumentTitle("Automation Report");
+htmlReporter.config().setReportName("report");
+htmlReporter.config().setTimeStampFormat("EEEE, MMMM dd, yyyy, hh:mm a '('zzz')'");

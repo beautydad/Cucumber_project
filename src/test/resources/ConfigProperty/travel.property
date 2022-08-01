@@ -1,0 +1,3 @@
+browser=chrome
+url=http://c2ta.co.in/travel
+#reportConfigPath=C:/ToolsQA/CucumberFramework/configs/extent-config.xml
